@@ -1,0 +1,8 @@
+<env:Envelope xmlns:env=" ">
+    <env:Body>
+        <env:Fault>
+            <faultcode></faultcode>
+            <faultstring></faultstring>
+        </env:Fault>
+    </env:Body>
+</env:Envelope>
